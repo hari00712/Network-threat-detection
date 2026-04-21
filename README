@@ -65,6 +65,14 @@ Dashboard + Auto Mitigation
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔹 Terminal Output
+![Output](screenshots/terminal-output.png)
+
 ## ⚙ Installation
 
 1. Clone repository:
