@@ -1,0 +1,109 @@
+# 🛡 NetSentinel – Intelligent Network Threat Detection & Auto-Mitigation Platform
+
+NetSentinel is an advanced real-time network monitoring and threat detection system designed to identify suspicious traffic patterns and automatically mitigate critical threats.
+
+## 🚀 Features
+
+- Real-time packet capture using Scapy
+- Traffic spike detection
+- Dynamic risk scoring engine
+- Severity classification (Low / Medium / High / Critical)
+- Automated IP blocking (Windows Firewall)
+- REST API endpoint for incidents
+- Live auto-refresh dashboard
+- Dark theme UI
+- Modular architecture (Detection, Mitigation, API, UI)
+
+---
+
+## 🏗 Architecture
+
+Network Interface  
+↓  
+Packet Capture Engine  
+↓  
+Threat Detection Engine  
+↓  
+Risk Scoring & Severity Classification  
+↓  
+Incident Logging  
+↓  
+Dashboard + Auto Mitigation  
+
+---
+
+## 🔍 Detection Capabilities
+
+- Traffic spike detection (possible DDoS behavior)
+- Suspicious IP identification
+- Severity-based incident classification
+- Automated blocking for Critical threats
+
+---
+
+## 📊 Dashboard
+
+- Live threat monitoring
+- Incident table with:
+  - Source IP
+  - Attack Type
+  - Risk Score
+  - Severity
+  - Timestamp
+  - Blocked Status
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Flask
+- Scapy
+- HTML/CSS
+- REST API
+- Windows Firewall (auto-block integration)
+
+---
+
+## ⚙ Installation
+
+1. Clone repository:
+
+```
+git clone https://github.com/yourusername/NetSentinel
+cd NetSentinel
+```
+
+2. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run as Administrator:
+
+```
+python app.py
+```
+
+4. Open:
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+## 📌 Future Improvements
+
+- SYN flood detection logic
+- GeoIP API integration
+- Email & Telegram alerting
+- Machine learning anomaly detection
+- Docker containerization
+
+---
+
+## ⚠ Disclaimer
+
+This project is built for educational and research purposes only.

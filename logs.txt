@@ -1,0 +1,8 @@
+[2026-04-13 19:20:18] Packet capture started on Wi-Fi
+[2026-04-13 19:20:18] SYSTEM STARTED
+[2026-04-13 19:20:19] DETECTED: 20.50.73.9 | Score=1.8 | Severity=Low
+[2026-04-13 19:20:19] DETECTED: 13.89.178.27 | Score=1.8 | Severity=Low
+[2026-04-13 19:20:20] DETECTED: 13.89.178.27 | Score=1.8 | Severity=Low
+[2026-04-13 19:20:21] DETECTED: 91.108.56.148 | Score=1.8 | Severity=Low
+[2026-04-13 19:20:22] DETECTED: 91.108.56.148 | Score=1.8 | Severity=Low
+[2026-04-13 19:20:23] DETECTED: 20.50.73.9 | Score=1.8 | Severity=Low
